@@ -1,6 +1,7 @@
 # python
  File-Based Banking System Management Using Python
  2024
+ 
  • Certainly! Here’s a detailed outline for a banking project that uses file handling in Python to manage
  accounts, process credits and debits, and maintain account balances. This project will be implemented using
  simple text files for storage.
